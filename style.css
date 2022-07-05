@@ -1,0 +1,51 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+#center{
+    text-align: center;
+    font-size:50px;
+    color: white;
+}
+   
+#paddingtop{
+    padding-top: 280px;
+}
+#top-banner{
+   background-image: url(flood.jpg);
+   background-repeat: no-repeat;
+   padding-bottom: 150px;
+   
+}
+h5{
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+}
+h2{
+    text-align: center;
+}
+span{
+    background-image: linear-gradient(orange, tomato);
+    color: bisque;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+#donate{
+    text-align: center;
+    font-size:50px;
+    color: black;
+    font-weight: 700;
+}
+#villager{
+    text-align: center;
+    color: black;
+
+}
+#flex{
+    display: flex;
+}
+.width{
+    width: 20%;
+}
+
+    
