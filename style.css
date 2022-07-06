@@ -53,24 +53,56 @@ h2{
 .width{
     width: 30%;
 }
-#on{
-    padding-left: 100px;
-    background-color:bisque ;
-    margin-right: 70px;
-    margin-left: 120px;
+#bgpo1{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px 10px; 
+    margin-left: 20px;
+    
 }
+#bgpo2{
+    background-color: aquamarine;
+    margin-left: 20px;
+    padding: 10px 10px;
+    
+}
+#bgpo3{
+    background-color: aquamarine;
+    margin-left: 20px;
+    padding: 10px 10px;
+    
+}
+#bgpo4{
+    background-color: aquamarine;
+    margin-left: 20px;
+    padding: 10px 10px;
+    
+}
+#bgpo5{
+    background-color: aquamarine;
+    margin-left: 20px;
+    padding-left: 10px;
+    
+}
+#on{
+    padding-left: 150px;
+    
+    
+}
+
 #tw{
-    padding-left: 200px;background-color:bisque ;
+    padding-left: 200px;
 }
 #th{
-    padding-left: 100px;background-color:bisque ;
+    padding-left: 200px;
+    
 }
 #fo{
-    background-color:bisque ;
+    padding-left: 250px;
 }
 #five{
-    padding-right: 100px;
-    background-color:bisque ;
+    padding-left: 300px;
+   
 }
 #Other-Amount{
     text-align: center;
