@@ -23,20 +23,26 @@ h5{
 }
 h2{
     text-align: center;
+    
 }
-span{
+.link-botton{
+    text-decoration:none;
     background-image: linear-gradient(orange, tomato);
     color: bisque;
     padding: 10px 50px;
     border-radius: 10px;
+    font-size: 40px;
+    
+    
+   
 }
-#donate{
+.donate{
     text-align: center;
     font-size:50px;
     color: black;
     font-weight: 700;
 }
-#villager{
+.short-description{
     text-align: center;
     color: black;
 
@@ -45,7 +51,140 @@ span{
     display: flex;
 }
 .width{
-    width: 20%;
+    width: 30%;
+}
+#on{
+    padding-left: 100px;
+    background-color:bisque ;
+    margin-right: 70px;
+    margin-left: 120px;
+}
+#tw{
+    padding-left: 200px;background-color:bisque ;
+}
+#th{
+    padding-left: 100px;background-color:bisque ;
+}
+#fo{
+    background-color:bisque ;
+}
+#five{
+    padding-right: 100px;
+    background-color:bisque ;
+}
+#Other-Amount{
+    text-align: center;
+    padding-top: 50px;
+}
+#snd-link-bottoncenter{
+    text-align: center;
+}
+.sndcenter{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 60px;
+
+}
+#flex3{
+    display: flex;
 }
 
+#family-1{
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px orange; 
+    background-image: url(food.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 330px 1px;
+
+
+   
+
+}
+#sel-2{
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px orange;    
+    background-image: url(shrlter.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 330px 1px;
+
+   
+    
+
+}
+#Edu-3{
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px orange;
+    background-image: url(edu.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 330px 1px;
+
+    
+}
+#flex4{
+    display: flex;
+}
+#tran{
+    width: 50%;
+}
+#tran img{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 80px;
+    
+}
+#their{
+    margin-top: 130px;
+}
+#live{
+    font-size: 40px;
+}
+    #get{
+        text-align: center;
+        color: black;
+    }
+#bg{
+    background-color: brown;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 100px;
+    
+    border-radius: 20px;
+  
+}
+#input{
+    margin-left: 38%;
+    padding-top: 10px;
+    padding-bottom: 110px;
+    
+  
+    
+}
+#lastbg{
+    background-color: aqua;
+    padding-top: 100px;
+
+}
+footer{
+    margin-left: 47%;
+    padding-bottom: 50px ;
+    font-size: 30px;
+}
     
