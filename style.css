@@ -54,59 +54,44 @@ h2{
     width: 30%;
 }
 #bgpo1{
+    margin-left: 470px;
     background-color: aquamarine;
-    text-align: center;
-    padding: 10px 10px; 
-    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     
 }
 #bgpo2{
-    background-color: aquamarine;
     margin-left: 20px;
-    padding: 10px 10px;
+    background-color: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
     
 }
 #bgpo3{
-    background-color: aquamarine;
     margin-left: 20px;
-    padding: 10px 10px;
+    background-color: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 5px solid chocolate;
+    box-shadow: 4px  4px  7px ;
     
 }
 #bgpo4{
-    background-color: aquamarine;
     margin-left: 20px;
-    padding: 10px 10px;
+    background-color: aquamarine;
+    padding-left: 10px;
+    padding-right: 10px;
     
 }
 #bgpo5{
-    background-color: aquamarine;
     margin-left: 20px;
+    background-color: aquamarine;
     padding-left: 10px;
+    padding-right: 10px;
     
-}
-#on{
-    padding-left: 150px;
-    
-    
-}
-
-#tw{
-    padding-left: 200px;
-}
-#th{
-    padding-left: 200px;
-    
-}
-#fo{
-    padding-left: 250px;
-}
-#five{
-    padding-left: 300px;
-   
 }
 #Other-Amount{
-    text-align: center;
-    padding-top: 50px;
+   text-align: center;
 }
 #snd-link-bottoncenter{
     text-align: center;
@@ -199,24 +184,60 @@ h2{
     padding-top: 100px;
     
     border-radius: 20px;
-  
+    display: flex;
 }
 #input{
     margin-left: 38%;
     padding-top: 10px;
     padding-bottom: 110px;
-    
-  
-    
+    size: 50px;
 }
-#lastbg{
-    background-color: aqua;
+
+
+#input2{
+    margin-left: 00%;
+    padding-top: 10px;
+    padding-bottom: 110px;
+}
+#subscribe{
+    padding: 10px;
+    background-color: rgb(47, 44, 222);
+}
+}
+#lastbgc{
+   background-color: black;
     padding-top: 100px;
+  
 
 }
 footer{
-    margin-left: 47%;
-    padding-bottom: 50px ;
+   
+    background-color: black;
+    height: 200px;
+}
+#life{
+    color: aliceblue;
+    margin-left: 43%;
+    padding-top: 80px ;
     font-size: 30px;
 }
-    
+    #mar{
+        margin-left: 300px;
+        margin-right: 300px;
+       
+    }
+#eml{
+    padding: 10px;
+    background-color:bisque;
+    color: black;
+    font-weight: 700;
+    border-radius-:4px;
+}
+#button{
+    padding-left:10px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:rgb(34, 156, 164);
+    border-radius: 4px;
+}
